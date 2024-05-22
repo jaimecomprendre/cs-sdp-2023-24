@@ -17,7 +17,7 @@ Mousseau Vincent
 - [Resources](#resources)
 
 ## Repository usage
-1.  Install [git-lfs ](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage), it will be needed to download the data
+1.  Instal [git-lfs ](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage), it will be needed to download the data
 2. Fork the repository, the fork will be used as a deliverable
 3. Clone your fork and push your solution model on it
 
